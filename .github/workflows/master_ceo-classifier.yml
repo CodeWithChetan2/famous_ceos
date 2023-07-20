@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ceo-classifier'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A032D501DD6F420D972BF9E9A8CA2A95 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_237D2768161E43ECAF9DBB80447F606B }}
